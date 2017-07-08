@@ -1,6 +1,0 @@
-coroutils/__init__.py
-coroutils/coroutine.py
-coroutils.egg-info/PKG-INFO
-coroutils.egg-info/SOURCES.txt
-coroutils.egg-info/dependency_links.txt
-coroutils.egg-info/top_level.txt
