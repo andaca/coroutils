@@ -1,0 +1,20 @@
+Metadata-Version: 1.0
+Name: coroutils
+Version: 1.0
+Summary: utils for working with coroutines
+Home-page: UNKNOWN
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: # coroutils
+        ## Utilities for working with coroutines in python3
+        
+        ### Contents
+        
+        - couroutine.py
+        
+            - function couroutine
+        
+            A decorator to wrap a coroutine so that it is already primed.
+            
+Platform: UNKNOWN
